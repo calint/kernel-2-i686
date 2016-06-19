@@ -1,4 +1,3 @@
-/boot.o
-/kernel.bin
-/multiboot_header.o
-/os.iso
+*.o
+*.bin
+*.iso
