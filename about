@@ -1,2 +1,4 @@
 archlinux packages
-grub2 mtools xorriso
+nasm grub2 mtools xorriso
+
+i686-tool-chain
